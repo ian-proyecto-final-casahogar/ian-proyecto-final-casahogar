@@ -553,3 +553,7 @@ footer p {
         display: none;
     }
 }
+.visible {
+    opacity: 1 !important;
+    transform: none !important;
+}
